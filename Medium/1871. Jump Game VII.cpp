@@ -1,35 +1,28 @@
 class Solution {
 public:
-    int n;
-    int solve(int idx, string& s, int minJump, int maxJump, vector<int>& t) {
-        // reached last index
-        if (idx == n - 1) {
-            return true;
-        }
-        if (t[idx] != -1) {
-            return t[idx];
-        }
-        // try every possible jump
-        for (int jump = minJump; jump <= maxJump; jump++) {
-            int j = idx + jump;
-            // out of bounds
-            if (j >= n) {
-                break;
-            }
-            // can only jump on '0'
-            if (s[j] == '0') {
-                if (solve(j, s, minJump, maxJump, t)) {
-                    return t[idx] = true;
-                }
-            }
-        }
-        return t[idx] = false;
-    }
-
     bool canReach(string s, int minJump, int maxJump) {
-        n = s.length();
-        vector<int> t(n, -1);
-        return solve(0, s, minJump, maxJump, t);
+        int n = s.size();
+
+        vector<bool> dp(n, false);
+        dp[0] = true;
+
+        int reachable = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (i - minJump >= 0 && dp[i - minJump]) {
+                reachable++;
+            }
+
+            if (i - maxJump - 1 >= 0 && dp[i - maxJump - 1]) {
+                reachable--;
+            }
+
+            if (s[i] == '0' && reachable > 0) {
+                dp[i] = true;
+            }
+        }
+
+        return dp[n - 1];
     }
 };
 //
