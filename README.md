@@ -84,4 +84,8 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yyyuvvvraj/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yyyuvvvraj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/yyyuvvvraj/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
