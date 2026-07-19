@@ -14,6 +14,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yyyuvvvraj/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -22,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -97,4 +99,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
