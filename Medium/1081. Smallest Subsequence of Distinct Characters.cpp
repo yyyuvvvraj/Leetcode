@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string removeDuplicateLetters(string s) {
+    string smallestsubsequence(string s) {
         int n = s.length();
         string result;
 
