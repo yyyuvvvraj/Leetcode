@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yyyuvvvraj/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -57,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
