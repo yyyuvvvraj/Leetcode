@@ -10,6 +10,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
@@ -93,10 +94,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/yyyuvvvraj/Leetcode/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
