@@ -84,6 +84,7 @@
 | [0486-predict-the-winner](https://github.com/yyyuvvvraj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -112,6 +113,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -148,12 +150,23 @@
 | [0486-predict-the-winner](https://github.com/yyyuvvvraj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
