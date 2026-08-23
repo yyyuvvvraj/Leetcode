@@ -25,6 +25,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yyyuvvvraj/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -126,6 +128,7 @@
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yyyuvvvraj/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -164,6 +167,7 @@
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yyyuvvvraj/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
