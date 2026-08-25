@@ -20,6 +20,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yyyuvvvraj/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yyyuvvvraj/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
