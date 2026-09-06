@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/yyyuvvvraj/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/yyyuvvvraj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/yyyuvvvraj/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/yyyuvvvraj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
