@@ -7,6 +7,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/yyyuvvvraj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/yyyuvvvraj/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
@@ -89,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/yyyuvvvraj/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
