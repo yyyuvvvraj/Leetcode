@@ -13,6 +13,7 @@
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/yyyuvvvraj/Leetcode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yyyuvvvraj/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -65,6 +66,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yyyuvvvraj/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yyyuvvvraj/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +79,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yyyuvvvraj/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yyyuvvvraj/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -247,6 +251,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yyyuvvvraj/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
