@@ -1,5 +1,5 @@
-lass Solution {
-    public:
+class Solution {
+public:
     string reverseParentheses(string s) {
         int n = s.length();
         stack<int> openBracket;
@@ -31,7 +31,3 @@ lass Solution {
         return result;
     }
 };
-
-//
-// Created by Yuvraj Rajni Sachin Deshmukh on 27/09/26.
-//
