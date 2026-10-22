@@ -43,6 +43,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yyyuvvvraj/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/yyyuvvvraj/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/yyyuvvvraj/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
