@@ -99,6 +99,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/yyyuvvvraj/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yyyuvvvraj/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -235,6 +236,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yyyuvvvraj/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yyyuvvvraj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/yyyuvvvraj/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
