@@ -1,46 +1,46 @@
 class Solution {
-private int m, n;
+public:
 
-private boolean dfs(int[][] grid, int r, int c) {
-    // Out of bounds: touched the border, so not closed
-    if (r < 0 || r >= m || c < 0 || c >= n)
-        return false;
+    int m, n;
+    bool dfs(vector<vector<int>> &grid, int r, int c) {
 
-    // Water: closed on this side
-    if (grid[r][c] == 1)
-        return true;
+        if(r < 0 || r >= m || c < 0 || c >= n)
+            return false; //Not closed
 
-    // Mark as visited
-    grid[r][c] = 1;
+        if(grid[r][c] == 1)
+            return true; //closed here
 
-    // Explore all 4 directions (no short-circuiting, so the full island gets marked)
-    boolean left  = dfs(grid, r, c - 1);
-    boolean right = dfs(grid, r, c + 1);
-    boolean up    = dfs(grid, r - 1, c);
-    boolean down  = dfs(grid, r + 1, c);
+        grid[r][c] = 1;
 
-    return left && right && up && down;
-}
+        bool left  = dfs(grid, r, c-1);
+        bool right = dfs(grid, r, c+1);
+        bool up    = dfs(grid, r-1, c);
+        bool down  = dfs(grid, r+1, c);
 
-public int closedIsland(int[][] grid) {
-    m = grid.length;
-    n = grid[0].length;
+        return left && right && up && down;
 
-    int count = 0;
-
-    for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-            if (grid[i][j] == 0) {
-                if (dfs(grid, i, j)) {
-                    count++;
-                }
-            }
-        }
     }
 
-    return count;
-}
-}
+    int closedIsland(vector<vector<int>>& grid) {
+        m = grid.size();
+        n = grid[0].size();
+
+        int count = 0;
+
+        for(int i = 0; i<m; i++) {
+            for(int j = 0; j<n; j++) {
+
+                if(grid[i][j] == 0) {
+                    count += dfs(grid, i, j);
+                }
+
+            }
+        }
+
+        return count;
+    }
+};
+
 //
 // Created by Yuvraj Rajni Sachin Deshmukh on 25/10/26.
 //
