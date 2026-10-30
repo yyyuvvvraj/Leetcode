@@ -109,6 +109,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yyyuvvvraj/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,12 +156,14 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yyyuvvvraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/yyyuvvvraj/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yyyuvvvraj/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
