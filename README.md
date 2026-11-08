@@ -13,6 +13,7 @@
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/yyyuvvvraj/Leetcode/tree/master/1563-stone-game-v) |
@@ -157,6 +158,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/yyyuvvvraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yyyuvvvraj/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yyyuvvvraj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -185,6 +187,7 @@
 | [0835-image-overlap](https://github.com/yyyuvvvraj/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yyyuvvvraj/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yyyuvvvraj/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yyyuvvvraj/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yyyuvvvraj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yyyuvvvraj/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -245,6 +249,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yyyuvvvraj/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yyyuvvvraj/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yyyuvvvraj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -326,6 +331,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
