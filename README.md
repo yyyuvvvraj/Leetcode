@@ -119,6 +119,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yyyuvvvraj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/yyyuvvvraj/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yyyuvvvraj/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -335,6 +336,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yyyuvvvraj/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
