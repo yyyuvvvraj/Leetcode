@@ -41,6 +41,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/yyyuvvvraj/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yyyuvvvraj/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yyyuvvvraj/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yyyuvvvraj/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yyyuvvvraj/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yyyuvvvraj/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -131,6 +132,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/yyyuvvvraj/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yyyuvvvraj/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yyyuvvvraj/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yyyuvvvraj/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yyyuvvvraj/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -152,6 +154,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yyyuvvvraj/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yyyuvvvraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yyyuvvvraj/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yyyuvvvraj/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yyyuvvvraj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -265,6 +268,7 @@
 | [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yyyuvvvraj/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yyyuvvvraj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yyyuvvvraj/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yyyuvvvraj/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yyyuvvvraj/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -459,6 +463,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yyyuvvvraj/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yyyuvvvraj/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yyyuvvvraj/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
