@@ -14,6 +14,7 @@
 | [1254-number-of-closed-islands](https://github.com/yyyuvvvraj/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yyyuvvvraj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/yyyuvvvraj/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -299,6 +300,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/yyyuvvvraj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yyyuvvvraj/Leetcode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yyyuvvvraj/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/yyyuvvvraj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yyyuvvvraj/Leetcode/tree/master/1510-stone-game-iv) |
@@ -415,6 +417,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yyyuvvvraj/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yyyuvvvraj/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yyyuvvvraj/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -493,4 +496,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yyyuvvvraj/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yyyuvvvraj/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
