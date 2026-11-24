@@ -2,22 +2,31 @@
 class Solution {
 public:
     int maxLength(vector<int>& nums) {
+        int maxNum = 0, globalLCM = 1;
+
+        for (int x : nums) {
+            maxNum = max(maxNum, x);
+            globalLCM = lcm(globalLCM, x);
+        }
+
+        int limit = maxNum * globalLCM;
         int n = nums.size();
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            long long product = 1;
-            long long gcdVal = 0;
-            long long lcmVal = 1;
+            int product = 1;
+            int g = 0, l = 1;
 
             for (int j = i; j < n; j++) {
                 product *= nums[j];
 
-                gcdVal = gcd(gcdVal, (long long)nums[j]);
+                if (product > limit)
+                    break;
 
-                lcmVal = lcm(lcmVal, (long long)nums[j]);
+                g = gcd(g, nums[j]);
+                l = lcm(l, nums[j]);
 
-                if (product == gcdVal * lcmVal) {
+                if (product == g * l) {
                     ans = max(ans, j - i + 1);
                 }
             }
